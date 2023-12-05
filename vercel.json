@@ -22,7 +22,7 @@
   ],
   "env": {
     "APP_NAME": "Vercel Laravel",
-    "APP_ENV": "local", //production
+    "APP_ENV": "local",
     "APP_DEBUG": "false",
     "APP_URL": "https://test-vercell-gamma.vercel.app/",
     "VERCEL_DEMO_MODE": "true",
