@@ -25,6 +25,7 @@
     "APP_ENV": "local",
     "APP_DEBUG": "true",
     "APP_URL": "https://test-vercell-gamma.vercel.app/",
+    "APP_KEY": "base64:PajWIfBvz7eUlBQ3UlSg5rW2pwqcSFxnvxjByUHf6Vo=",
     "VERCEL_DEMO_MODE": "true",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
